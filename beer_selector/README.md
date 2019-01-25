@@ -1,6 +1,7 @@
 # Beer Selector (Personal MEAN Stack Project)
 
-For this assignment I created a simple single page message board that allows users to create messages, and comment on existing messages which are stored via MongoDB imtegration in the backend. Validations are implemented which ensure that empty fields are not permitted. 
+This is a personal portfolio project that is still a WIP.  This is a near-fully functioning web application that helps a user select beer given personal taste.  This web application employs Express and Angular 7 to parse the Punk API database for beers.  All data is displayed within a single HTML page.
+
 
 Languages Utilized:
 <ul>
